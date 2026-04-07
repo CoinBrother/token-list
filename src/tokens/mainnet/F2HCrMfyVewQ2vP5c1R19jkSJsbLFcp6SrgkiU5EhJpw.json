@@ -9,7 +9,7 @@
   "extensions": {
     "website": "https://thepat.online",
     "twitter": "",
-    "coingeckoId": "",
+    "coingeckoId": "pat-token",
     "serumV3Usdc": "",
     "serumV3Usdt": "",
     "discord": ""
