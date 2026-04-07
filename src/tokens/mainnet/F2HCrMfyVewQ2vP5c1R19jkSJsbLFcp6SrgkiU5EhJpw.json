@@ -1,0 +1,17 @@
+{
+  "chainId": 101,
+  "address": "F2HCrMfyVewQ2vP5c1R19jkSJsbLFcp6SrgkiU5EhJpw",
+  "symbol": "PAT",
+  "name": "PAT",
+  "decimals": 9,
+  "logoURI": "https://thepat.online/pat_logo.png",
+  "tags": ["utility"],
+  "extensions": {
+    "website": "https://thepat.online",
+    "twitter": "",
+    "coingeckoId": "",
+    "serumV3Usdc": "",
+    "serumV3Usdt": "",
+    "discord": ""
+  }
+}
